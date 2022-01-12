@@ -23,7 +23,7 @@ def create_spark_session():
 
 def process_song_data(spark, input_data, output_data):
     # get filepath to song data file
-    song_data = 
+    song_data =
     
     # read song data file
     df = 
