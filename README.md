@@ -32,3 +32,7 @@ s3_output_path=<PATH TO A BUCKET OF YOUR BELONGING WITH WRITE PERMISSIONS>
 ```
 Please do not modify the other parameters since they are the paths to the raw data on the Udacity bucket.  
 Note: For better perfomance use `s3a://<URL>` instead of `s3://<URL> for your output path.
+
+#### References  
+- Cojocar, Bordan. (2020) How to read parquet data from S3 using the S3A protocol and temporary credentials in PySpark. 
+Medium.com. URL: https://medium.com/@bogdan.cojocar/how-to-read-parquet-data-from-s3-using-the-s3a-protocol-and-temporary-credentials-in-pyspark-f94071bf8c6a
